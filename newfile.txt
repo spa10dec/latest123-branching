@@ -1,1 +1,2 @@
 123
+new files are added to demons the diff and amend comanda
